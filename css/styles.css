@@ -1,0 +1,24 @@
+*{
+text-decoration-line: none;
+padding: 0 auto;
+color: inherit;
+float: left;
+
+}
+
+body{
+	background: url("../../../Documents/UNIVERSMORSHOPP 2022/universmorshopp shopify/acceuil i.png")}
+
+h1.univers{
+  padding-top: 0px; padding-bottom: 20px; padding-left: 180px;font-size: 120px; color: antiquewhite;}
+
+p.merci{color: red; font-size: 150px; font-style: italic; font: bold;}
+
+p.meilleurs{color: green;font-size: 60px;}
+
+
+li a{color: black; padding: 10px;  }
+li.btn{
+  display: inline-block;  font-size: 35px; margin: center;}
+ li.btn:hover  a{
+ 	color: red; background-color: white; transition: 0.3s all; font-style: !important;}
